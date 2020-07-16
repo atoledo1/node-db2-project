@@ -32,7 +32,7 @@ The client for this API is a car dealer who has provided the following specs:
 - The critical information for each car is the VIN, make, model, and mileage.
 - They also track transmission type and status of the title (clean, salvage, etc.), but this information is not always immediately known.
 
-## Stretch Problems
+## Stretch Problems.
 
 - Add seed data to the database using `knex seeds`
 - Add `UPDATE` and `DELETE` operations to your API.
